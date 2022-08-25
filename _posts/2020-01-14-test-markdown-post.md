@@ -1,19 +1,19 @@
 ---
 toc: true
 layout: post
-description: A minimal example of using markdown with fastpages.
+description: James's example markdown post
 categories: [markdown]
-title: An Example Markdown Post
+title: James's Markdown Post
 ---
 # Example Markdown Post
 
 ## Hello World
 
-Jekyll requires blog post files to be named according to the following format:
+Hello world welcome my name is James and welcome to my markdown post.
 
-`YEAR-MONTH-DAY-filename.md`
+`2022-08-24-filename.md`
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
+The year is 2022 the month is Agust and it is the 24th of Agust.
 
 The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
 
