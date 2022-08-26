@@ -5,7 +5,7 @@ description: James's example markdown post
 categories: [markdown]
 title: James's Markdown Post
 ---
-# Example Markdown Post
+# James's Markdown Post
 
 ## Hello World
 
@@ -15,25 +15,30 @@ Hello world welcome my name is James and welcome to my markdown post.
 
 The year is 2022 the month is Agust and it is the 24th of Agust.
 
-The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
+My name is James and I am a student in Mr. Mortensons APCSP class. Next you will learn a little bit more about me
+## About me
 
-## Basic formatting
-
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+Hi my name is James Armstrong and I am a student in Mr.Mortensons APCSP class period 3. I play football, am a big movie an tv guy, and some of my favorite sports teams are the Vikings, Timberwolves, and Padres.
 
 ---
 
-## Lists
+## Continue to learn about me
 
-Here's a list:
+Things I like to do:
 
-- item 1
-- item 2
+- Watch tv (Walking Dead and Game of thrones)
+- Watch movies
+- Play videogames
+- Go to practice and play in games
+- Watch sports
 
-And a numbered list:
+My Top 5 Movies:
 
-1. item 1
-1. item 2
+1. Amercian Phsyco
+2. Bohenmion Rhapsody
+3. Toy Story
+4. Halloween(2018)
+5. The Hangover
 
 ## Boxes and stuff
 
