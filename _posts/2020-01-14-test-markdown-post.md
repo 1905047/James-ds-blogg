@@ -40,19 +40,14 @@ My Top 5 Movies:
 4. Halloween(2018)
 5. The Hangover
 
-## Boxes and stuff
 
-> This is a quotation
 
-{% include alert.html text="You can include alert boxes" %}
 
-...and...
+## A Couple of Pictures I Have Taken
 
-{% include info.html text="You can include info boxes" %}
+![DSC_0055](https://user-images.githubusercontent.com/111530995/186972166-be4065ac-3cd6-4503-863f-507eb546fa3b.jpg)
 
-## Images
 
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
 
 ## Code
 
@@ -88,11 +83,7 @@ key: value
 ```
 
 
-## Tables
 
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
 
 
 ## Tweetcards
@@ -100,9 +91,5 @@ key: value
 {% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}
 
 
-## Footnotes
 
-
-
-[^1]: This is the footnote.
 
