@@ -1,13 +1,5 @@
 ---
-keywords: fastai
-title: College Board Final
-toc: true 
-badges: true
-comments: true
-categories: [jupyter]
-image: images/chart-preview.png
-nb_path: _notebooks/James_First_Notebook copy 2.ipynb
-layout: notebook
+## College Board Final
 ---
 
 ## Score
