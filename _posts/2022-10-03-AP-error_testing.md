@@ -380,7 +380,7 @@ layout: notebook
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span>  <span class="n">const</span> <span class="n">scoresContainer</span> <span class="o">=</span> <span class="n">document</span><span class="o">.</span><span class="n">getElementById</span><span class="p">(</span><span class="s2">&quot;scores&quot;</span><span class="p">);</span>
+<div class=" highlight hl-ipython3"><pre><span></span>  <span class="n">const</span> <span class="n">scoresContainer</span> <span class="o">=</span> <span class="n">document</span><span class="o">.</span><span class="n">getElementById</span><span class="p">(</span><span class="s2">&quot;score&quot;</span><span class="p">);</span>
 
 <span class="o">//</span> <span class="n">Creates</span> <span class="n">new</span> <span class="nb">input</span> <span class="n">line</span>
 <span class="n">function</span> <span class="n">newInputLine</span><span class="p">(</span><span class="n">index</span><span class="p">)</span> <span class="p">{</span>
@@ -409,8 +409,8 @@ layout: notebook
 
 <div class="output_subarea output_text output_error">
 <pre>
-<span class="ansi-cyan-fg">  Cell </span><span class="ansi-green-fg">In [3], line 1</span>
-<span class="ansi-red-fg">    const scoresContainer = document.getElementById(&#34;scores&#34;);</span>
+<span class="ansi-cyan-fg">  Cell </span><span class="ansi-green-fg">In [2], line 1</span>
+<span class="ansi-red-fg">    const scoresContainer = document.getElementById(&#34;score&#34;);</span>
           ^
 <span class="ansi-red-fg">SyntaxError</span><span class="ansi-red-fg">:</span> invalid syntax
 </pre>
