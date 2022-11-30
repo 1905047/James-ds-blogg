@@ -1,0 +1,410 @@
+---
+## College Board Final
+---
+
+## Score
+I scored a 30/50, there should be 20 corected answers below!!
+</div>
+
+## Corrections
+
+Q4:
+utHelper is a mobile application that people can use to select a restaurant for a group meal. Each user creates a profile with a unique username and a list of food allergies or dietary restrictions. Each user can then build a contact list of other users of the app.
+
+A user who is organizing a meal with a group selects all the members of the group from the user’s contact list. The application then recommends one or more nearby restaurants based on whether the restaurant can accommodate all of the group members’ allergies and dietary restrictions.
+
+Suppose that Alejandra is using DineOutHelper to organize a meal with Brandon and Cynthia.
+
+Which of the following data are needed for DineOutHelper to recommend a restaurant for the group?
+
+Each group member’s list of food allergies or dietary restrictions
+Alejandra’s geographic location
+The usernames of the people on Brandon and Cynthia’s contact lists
+A
+I and II only
+B
+I and III only
+C
+II and III only
+D
+I, II, and III
+my Answer:B
+correct Amswer:A
+
+Q5:
+ DineOutHelper is a mobile application that people can use to select a restaurant for a group meal. Each user creates a profile with a unique username and a list of food allergies or dietary restrictions. Each user can then build a contact list of other users of the app.
+
+A user who is organizing a meal with a group selects all the members of the group from the user’s contact list. The application then recommends one or more nearby restaurants based on whether the restaurant can accommodate all of the group members’ allergies and dietary restrictions.
+
+Suppose that Alejandra is using DineOutHelper to organize a meal with Brandon and Cynthia.
+
+Which of the following data is not provided by Alejandra but is necessary for DineOutHelper to recommend a restaurant for the group?
+
+Brandon’s contact list
+Information about which restaurants Brandon and Cynthia have visited in the past
+Information about which food allergies and dietary restrictions can be accommodated at different restaurants near Alejandra
+A
+II only
+B
+III only
+C
+II and III only
+D
+I, II, and III
+my Answer:A
+correct Answer:B
+
+Q12:
+A student is creating an application that allows customers to order food for delivery from a local restaurant. Which of the following is LEAST likely to be an input provided by a customer using the application?
+A
+The address where the order should be delivered
+B
+The cost of a food item currently available for order
+C
+The credit card or payment information for the purchaser
+D
+The name of a food item to be included in the delivery
+my Answer:C
+correct Answer:B
+
+Q16:
+Which of the following best explains how messages are typically transmitted over the Internet?
+A
+The message is broken into packets that are transmitted in a specified order. Each packet must be received in the order it was sent for the message to be correctly reassembled by the recipient’s device.
+B
+The message is broken into packets. The packets can be received in any order and still be reassembled by the recipient’s device.
+C
+The message is broken into two packets. One packet contains the data to be transmitted and the other packet contains metadata for routing the data to the recipient’s device.
+D
+The message is transmitted as a single file and received in whole by the recipient’s device.
+my Answer:A
+correct Answer:B
+
+Q20:
+A video game character can face toward one of four directions: north, south, east, and west. Each direction is stored in memory as a sequence of four bits. A new version of the game is created in which the character can face toward one of eight directions, adding northwest, northeast, southwest, and southeast to the original four possibilities. Which of the following statements is true about how the eight directions must be stored in memory?
+A
+Four bits are not enough to store the eight directions. Five bits are needed for the new version of the game.
+B
+Four bits are not enough to store the eight directions. Eight bits are needed for the new version of the game.
+C
+Four bits are not enough to store the eight directions. Sixteen bits are needed for the new version of the game.
+D
+Four bits are enough to store the eight directions.
+my Answer:B
+correct Answer:D
+
+Q21:
+Which of the following are true statements about the data that can be represented using binary sequences?
+
+Binary sequences can be used to represent strings of characters.
+Binary sequences can be used to represent colors.
+Binary sequences can be used to represent audio recordings.
+A
+I only
+B
+I and II only
+C
+II and III only
+D
+I, II, and III
+my Answer:C
+correct Answer:D
+
+Q23:
+The position of a runner in a race is a type of analog data. The runner’s position is tracked using sensors. Which of the following best describes how the position of the runner is represented digitally?
+A
+The position of the runner is determined by calculating the time difference between the start and the end of the race and making an estimation based on the runner’s average speed.
+B
+The position of the runner is measured and rounded to either 0 or 1 depending on whether the runner is closer to the starting line or closer to the finish line.
+C
+The position of the runner is predicted using a model based on performance data captured from previous races.
+D
+The position of the runner is sampled at regular intervals to approxiimate the real-word position, and a sequence of bits is used to represent each sample.
+my Answer:A
+correct Answer:D
+
+Q28:The cost of a customer’s electricity bill is based on the number of units of electricity the customer uses.
+
+For the first 25 units of electricity, the cost is $5 per unit.
+For units of electricity after the first 25, the cost is $7 per unit.
+Which of the following code segments correctly sets the value of the variable cost to the cost, in dollars, of using numUnits units of electricity?
+A
+The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [begin block] Line 2: [begin block] cost ← numUnits times 5 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] cost ← numUnits times 7 [end block] [end block] [End block]
+B
+The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [begin block] Line 2: [begin block] cost ← numUnits times 5 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] cost ← open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [end block] [End block]
+C
+The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 5 plus, open parenthesis, numUnits minus 25, close parenthesis, times 7 [end block] [End Block] [End Block]
+D
+The figure presents one block of code that consists of 4 total lines. Throughout the block of code there are nested blocks of code. [Begin block] Line 1: IF [begin block] numUnits is less than or equal to 25 [end block] [Begin Block] Line 2: [begin block] cost ← numUnits times 5 [end block] [End Block] Line 3: ELSE [Begin Block] Line 4: [begin block] cost ← 25 times 7 plus, open parenthesis, numUnits minus 25, close parenthesis, times 5 [end block] [End Block] [End Block]
+my Answer:A
+correct Answer:C
+
+Q30:
+A programmer has a need to round many numeric values to the nearest integer. Which of the following best explains the benefit of using a list as a data abstraction in this situation?
+A
+Keeping the numeric values in a list makes it easier to round a number to the nearest integer.
+B
+Keeping the numeric values in a list makes it easier to apply the same computation to every data element.
+C
+Keeping the numeric values in a list makes it easier to prevent a program from unintentionally changing the value of a variable.
+D
+Keeping the numeric values in a list makes it easier to prevent a program from attempting to access an index beyond the length of the list.
+my Answer:A
+correct AnswerB
+
+Q34:
+Consider the following code segment.
+
+firstList ←
+←
+ ["guitar", "drums", "bass"]
+secondList ←
+←
+ ["flute", "violin"]
+thirdList ←
+←
+ []
+thirdList ←
+←
+ firstList
+firstList ←
+←
+ secondList
+secondList ←
+←
+ thirdList
+What are the contents of secondList after the code segment is executed?
+A
+[]
+B
+["guitar", "drums", "bass"]
+C
+["flute", "violin"]
+D
+["flute", "violin", "guitar", "drums", "bass"]
+my Answer:C
+correct Answer:B
+
+Q5:
+In a certain video game, the variable maxPS represents the maximum possible score a player can earn. The maximum possible score depends on the time it takes the player to complete the game. The value of maxPS should be 30 if time is greater than 120 and 50 otherwise.
+
+Which of the following code segments correctly sets the value of maxPS based on the value of time ?
+
+Select two answers.
+A
+The figure presents two blocks of code that consist of 3 total lines. Line 1: [begin block] maxPS ← 50 [end block] [Begin block] Line 2: IF [begin block] time is greater than 120 [end block] [begin block] Line 3: [begin block] maxPS ← 30 [end block] [end block] [End block]
+B
+The figure presents two blocks of code that consist of 3 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 30 [end block] [end block] [End Block] Line 3: [begin block] maxPS ← 50 [end block]
+C
+The figure presents one block of code that consists of 4 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 50 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] maxPS ← 30 [end block] [end block] [End block]
+D
+The figure presents one block of code that consists of 4 total lines. [Begin Block] Line 1: IF [begin block] time is greater than 120 [end block] [begin block] Line 2: [begin block] maxPS ← 30 [end block] [end block] Line 3: ELSE [begin block] Line 4: [begin block] maxPS ← 50 [end block] [end block] [End block]
+my Answer:D
+correct Answers: A and D
+
+Q38:
+Three words are stored in the variables word1, word2, and word3. The values of the variables are to be updated as shown in the following table.
+
+Variable	Value Before
+Updating	Value After
+Updating
+word1	"xylophone"	"zebra"
+word2	"yarn"	"yarn"
+word3	"zebra"	"xylophone"
+Which of the following code segments can be used to update the values of the variables as shown in the table?
+A
+temp ←word1
+word3 ←word1
+word1 ←temp
+B
+temp ← word1
+word1 ←word3
+word3 ←temp
+C
+temp ←word1
+word1 ← word2
+word2 ←word3
+word3 ← temp
+D
+temp ←word3
+word3 ←word2
+word2 ←word1
+word1 ←temp
+ my Answer:C
+ correct Answer:B
+
+ Q41:
+ Consider the following code segment.
+
+The figure presents eight blocks of code that consist of 8 lines. Line 1: [begin block] p ← 10 [end block] Line 2: [begin block] q ← 20 [end block] Line 3 [begin block] r ← 30 [end block] Line 4: [begin block] s ← 40 [end block] Line 5: [begin block] p ← q [end block] Line 6: [begin block] q ← r [end block] Line 7: [begin block] s ← q [end block] Line 8: [begin block] r ← p [end block] 
+What is the value of r as a result of executing the code segment?
+A.10
+B.20
+C.30
+D.40
+my Answer:C
+correct Answer:B
+
+Q42:
+Consider the following code segment.
+
+The figure presents six blocks of code that consist of 10 total lines. Line 1: [begin block] num1 ← 6 [end block] Line 2: [begin block] num2 ← 4 [end block] Line 3: [begin block] num3 ← 10 [end block] [Begin Block] Line 4: IF [begin block] num1 is less than num2 [end block] [begin block] Line 5: [begin block] num1 ← num2 [end block] [end block] Line 6: ELSE [begin block] Line 7: [begin block] num3 ← num2 [end block] [end block] [End Block] [Begin block] Line 8: IF [begin block] num2 is greater than or equal to num3 [end block] [begin block] Line 9: [begin block] num1 ← num2 plus num3 [end block] [end block] [End Block] Line 10: [begin block] sum ← num1 plus num2 plus num3 [end block]
+What is the value of sum after the code segment is executed?
+A.12
+B.14
+C.16
+D.18
+my Answer:B
+correct Answer:C
+
+Q43:
+Consider the following code segment.
+
+The figure presents three blocks of code that consist of 5 total lines. Throughout the third block of code are nested blocks of code. Line 1: [begin block] x ← 0 [end block] Line 2: [begin block] result ← 0 [end block] [Begin Block] Line 3: REPEAT UNTIL [begin block] x is greater than 5 [end block] [Begin Block] Line 4: [begin block] result ← result plus x [end block] Line 5: [begin block] x ← x plus 1 [end block] [End Block] [End Block]
+What is the value of result after the code segment is executed?
+A.6
+B.10
+C.15
+D.21
+my Answer:A
+correct Answer:C
+
+Q44:
+Consider the following code segment.
+
+The figure presents two lines of code that consist of 2 total lines. Line 1: [begin block] x ← 23 [end block] Line 2: [begin block] z ← x MOD y [end block]
+Which of the following initial values of the variable y would result in the variable z being set to 2 after the code segment is executed?
+A.1
+B.2
+C.3
+D.4
+my Answer:B
+correct Answer:C
+
+Q45:
+Consider the following code segment.
+
+theList ←
+←
+ [-2, -1, 0, 1, 2]
+count1 ←
+←
+ 0
+count2 ←
+←
+ 0
+FOR EACH value IN theList
+{
+IF(value > 0)
+{
+count1 ←
+←
+ count1 + 1
+}
+ELSE
+{
+count2 ←
+←
+ count2 + 1
+}
+}
+What are the values of count1 and count2 as a result of executing the code segment?
+A
+count1 = 2, count2 = 2
+B
+count1 = 2, count2 = 3
+C
+count1 = 3, count2 = 2
+D
+count1 = 5, count2 = 0
+my Answer:A
+correct Answer:B
+
+Q47:
+Consider the following code segment.
+
+The figure presents twelve blocks of code that consist of  12 total lines. Line 1: [begin block] a  ← 10 [end block] Line 2: [begin block] b  ← 20 [end block] Line 3: [begin block] c  ← 30 [end block] Line 4: [begin block] d  ← 40 [end block] Line 5: [begin block] x  ← 20 [end block] Line 6: [begin block] b  ← x plus b [end block] Line 7: [begin block] a  ← x plus 1 [end block] Line 8: [begin block] d  ← c plus d divided by 2 [end block] Line 9: [begin block] DISPLAY [begin block] a [end block] [end block] Line 10: [begin block] DISPLAY [begin block] b [end block] [end block] Line 11: [begin block] DISPLAY [begin block] c [end block] [end block] Line 12: [begin block] DISPLAY [begin block] d [end block] [end block]
+What is displayed as a result of executing the code segment?
+A
+10 20 30 40
+B
+21 30 40 50
+C
+21 40 30 40
+D
+21 40 30 50
+my Answer:A
+correct Answer:D
+
+Q48:
+Consider the following code segment.
+
+x ←
+←
+ 25
+y ←
+←
+ 50
+z ←
+←
+ 75
+x ←
+←
+ y
+y ←
+←
+ z
+z ←
+←
+ x
+Which of the variables have the value 50 after executing the code segment?
+A
+x only
+B
+y only
+C
+x and z only
+D
+x, y, and z
+my Answer:D
+correct Answer:C
+
+Q49:
+Consider the following procedures for string manipulation.
+
+Procedure Call	Explanation
+concat(str1, str2)	Returns a single string consisting of str1 followed by str2. For example, concat("key", "board") returns "keyboard".
+reverse(str)	Returns the reverse of the string str. For example, reverse("abcd") returns "dcba".
+Which of the following code segments can be used to store "noon" in the string variable word ?
+A
+word ←
+←
+ "no"
+word ←
+←
+ concat(reverse(word), word)
+B
+word ←
+←
+ "no"
+word ←
+←
+ concat(reverse(word), reverse(word))
+C
+word ←
+←
+ "on"
+word ←
+←
+ concat(reverse(word), word)
+D
+word ←
+←
+ "on"
+word ←
+←
+ concat(reverse(word), reverse(word))
+ my Answer:B
+ correct Answer:C
+ 
+
